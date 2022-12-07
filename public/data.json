@@ -1,0 +1,103 @@
+[
+
+    {
+        "id": "1",
+        "topicId": "Luo",
+        "question": "Mikä joki virtaa mm. Kittilässä?",
+        "aa": "A) Siikajoki",
+        "bee": "B) Ounasjoki",
+        "cee": "C) Lemmenjoki",
+        "dee": "D) Oulankajoki",
+        "answer": "B"
+      },
+      {
+      "id": "2",
+      "topicId": "Luo",
+      "question": "Mihin jokeen kuuluu Kiutaköngäs?",
+      "aa": "A) Oulankajokeen",
+      "bee": "B) Ounasjokeen",
+      "cee": "C) Muonionjokeen",
+      "dee": "D) Kyrönjokeen",
+      "answer": "A"
+    },
+    {
+      "id": "3", 
+      "topicId": "Luo",
+      "question": "Mikä eläin on Caracal caracal?",
+      "aa": "A) Seepra",
+      "bee": "B) Lumileoparbi",
+      "cee":"C) Aavikkoilves",
+      "dee": "D) Valkogaselli",
+      "answer": "C"
+    },
+    {
+        "id": "4", 
+        "topicId": "Luo",
+        "question": "Mikä on Suomen pisin joki?",
+        "aa": "A) Kymijoki",
+        "bee": "B) Iijoki",
+        "cee":"C) Kemijoki",
+        "dee": "D) Ounasjoki",
+        "answer": "C"
+      },
+      {
+        "id": "5", 
+        "topicId": "Luo",
+        "question": "Missä sijaitsee Rokuan kansallispuisto?",
+        "aa": "A) Uusimaa",
+        "bee": "B) Pohjois-Pohjanmaa",
+        "cee":"C) Lappi",
+        "dee": "D) Varsinais-Suomi",
+        "answer": "B"
+      },
+      {
+        "id": "6", 
+        "topicId": "Luo",
+        "question": "Missä on Riisitunturi?",
+        "aa": "A) Posiolla",
+        "bee": "B) Kuusamossa",
+        "cee":"C) Savukoskella",
+        "dee": "D) Sallassa",
+        "answer": "A"
+      },
+      {
+        "id": "7", 
+        "topicId": "Luo",
+        "question": "Mikä kasvi on Acer platanoides?",
+        "aa": "A) Rauduskoivu",
+        "bee": "B) Metsävaahtera",
+        "cee":"C) Metsähaapa",
+        "dee": "D) Harmaaleppä",
+        "answer": "B"
+      },
+      {
+        "id": "8", 
+        "topicId": "Luo",
+        "question": "Mikä seuravista on punaketun latinankielinen nimi?",
+        "aa": "A) Vulpes vulpes",
+        "bee": "B) Lynx lynx",
+        "cee":"C) Canis lupus",
+        "dee": "D) Ursus arctos",
+        "answer": "A"
+      },
+      {
+        "id": "9", 
+        "topicId": "Luo",
+        "question": "Mikä eläin on Lepus timidus?",
+        "aa": "A) Orava",
+        "bee": "B) Metsähiiri",
+        "cee":"C) Metsäjänis",
+        "dee": "D) Peltomyyrä",
+        "answer": "C"
+      },
+      {
+        "id": "10", 
+        "topicId": "Luo",
+        "question": "Mihin heimoon kuuluu voikukka?",
+        "aa": "A) Leinikkikasveihin",
+        "bee": "B) Parsakasveihin",
+        "cee":"C) Ristikukkaiskasveihin",
+        "dee": "D) Asterikasveihin",
+        "answer": "D"
+      }
+    ]

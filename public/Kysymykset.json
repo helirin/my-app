@@ -1,0 +1,33 @@
+[
+
+{
+    "id": "1",
+    "topic": "Luo",
+    "question": "Mikä joki virtaa mm. Kittilässä?",
+    "aa": "A) Siikajoki",
+    "bee": "B) Ounasjoki",
+    "cee": "C) Lemmenjoki",
+    "dee": "D) Oulankajoki",
+    "answer": "B"
+  },
+  {
+  "id": "2",
+  "topic": "Luo",
+  "question": "Mihin jokeen kuuluu Kiutaköngäs?",
+  "aa": "A) Oulankajokeen",
+  "bee": "B) Ounasjokeen",
+  "cee": "C) Muonionjokeen",
+  "dee": "D) Kyrönjokeen",
+  "answer": "A"
+},
+{
+  "id": "3", 
+  "topic": "Luo",
+  "question": "Mikä eläin on Caracal caracal?",
+  "aa": "A) Seepra",
+  "bee": "B) Lumileoparbi",
+  "cee":"C) Aavikkoilves",
+  "dee": "D) Valkogaselli",
+  "answer": "C"
+}
+]

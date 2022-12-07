@@ -1,0 +1,115 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+/*omat lisaykset*/
+.vast {
+  background-color: lightseagreen;
+  width: 80px;
+  height: 30px;
+  padding: 5px;
+  margin-top: 10px;
+  /*font-size: larger;*/
+  color: lightseagreen;
+  text-align: center;
+
+  border: 1px solid darkblue;
+  border-radius: 2px;
+}
+.vast:hover {
+  background-color: white;
+  color: black;
+}
+h1,
+h2 {
+  text-shadow: 2px 1px 2px black;
+  color: white;
+  text-align: center;
+}
+.banner {
+  background-color: lightseagreen;
+  height: 60px;
+  border-left: 0px solid lightcyan;
+  border-right: 0px solid lightcyan;
+  border-bottom: 2px solid darkcyan;
+  border-top: 1px solid lightcyan;
+  vertical-align: baseline;
+  padding-top: 5px;
+}
+.hr {
+  border: 2px solid darkblue;
+}
+.submit {
+  background-color: darkcyan;
+  color: white;
+  border-radius: 5px;
+  border: 1px solid darkcyan;
+  padding: 5px 10px 7px 10px;
+}
+.submit:hover{
+  background-color: lightseagreen;
+  color: rgb(1, 52, 52);
+}
+.submit:disabled{
+  opacity: 0.7;
+  cursor: not-allowed;
+}
+.selitys {
+  /*background-color: white;*/
+  color: black;
+  height: 40px;
+  padding: 5px;
+}
+.alapalkki {
+  background-color: lightseagreen;
+  color: black;
+  height: 30px;
+  padding: 5px;
+  border: 1px solid darkcyan;
+}
+.button {
+  background-color: darkcyan;
+  align-content: center;
+  border: 1px solid darkcyan;
+  border-radius: 5px;
+  color: white;
+  padding: 5px 10px 8px 10px;
+}
+.button:hover {
+  background-color: lightseagreen;
+  color: rgb(1, 52, 52); 
+}
+.navi {
+  background-color: darkcyan;
+  width: 80px;
+  border-left: 0px solid lightcyan;
+  border-right: 1px solid lightcyan;
+  border-bottom: 0px solid lightcyan;
+  border-top: 0px solid lightcyan;
+  color: white;
+}
+.navipalkki {
+  background-color: darkcyan;
+  border-left: 1px solid lightcyan;
+  border-right: 1px solid lightcyan;
+  border-top: 2px solid lightseagreen;
+  border-bottom: 0px solid lightcyan;
+}
+.sivu {
+  border: 1px solid lightgrey;
+}
+.reuna {
+  padding-left: 10px;
+}
+#viiva {
+  border: 0px solid darkcyan;
+}
